@@ -1,6 +1,6 @@
 ﻿using Abstractions.Interfaces;
 using Abstractions.Models;
-namespace DataGeneration.Implementations
+namespace GameLoop.Services
 {
   internal sealed class TurnMeterQueue : ITurnMeterQueue
   {

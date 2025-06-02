@@ -2,7 +2,7 @@
 using Abstractions.Interfaces;
 using Abstractions.Models;
 
-namespace DataGeneration.Implementations.Skills
+namespace GameLoop.Services.Skills
 {
   public sealed class StandardMelee : ISkill
   {

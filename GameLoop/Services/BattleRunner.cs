@@ -1,7 +1,7 @@
 ﻿using Abstractions.Interfaces;
 using Abstractions.Models;
 
-namespace DataGeneration.Implementations
+namespace GameLoop.Services
 {
   public sealed class BattleRunner : IBattleRunner
   {

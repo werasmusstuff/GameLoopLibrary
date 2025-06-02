@@ -2,13 +2,13 @@
 using Abstractions.Models;
 using FastDeepCloner;
 
-namespace DataGeneration.Implementations
+namespace GameLoop.Services
 {
   internal sealed class TurnStateCloner : ITurnStateCloner
   {
     public TurnState CloneTurnState(TurnState turnState)
     {
-      var newState = DeepCloner.Clone(turnState);
+      var newState = turnState.Clone();
       newState.TurnMeterQueue = turnState.TurnMeterQueue;
 
       foreach (var teamkey in newState.Teams.teams.Keys)
