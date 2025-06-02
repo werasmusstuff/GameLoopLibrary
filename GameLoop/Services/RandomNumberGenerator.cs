@@ -1,6 +1,6 @@
 ﻿using Abstractions.Interfaces;
 
-namespace DataGeneration.Implementations
+namespace GameLoop.Services
 {
   internal sealed class RandomNumberGenerator : IRandomNumberGenerator
   {

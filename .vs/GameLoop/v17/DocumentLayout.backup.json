@@ -1,22 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Dev\\GameLoop\\",
+  "WorkspaceRootPath": "D:\\Dev\\GameLoopLibrary\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DA930CE-02AA-455C-9409-52618F3FF285}|GameLoop\\GameLoop.csproj|d:\\dev\\gameloop\\gameloop\\implementations\\battlerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DA930CE-02AA-455C-9409-52618F3FF285}|GameLoop\\GameLoop.csproj|solutionrelative:gameloop\\implementations\\battlerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DA930CE-02AA-455C-9409-52618F3FF285}|GameLoop\\GameLoop.csproj|d:\\dev\\gamelooplibrary\\gameloop\\services\\turnstatecloner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA930CE-02AA-455C-9409-52618F3FF285}|GameLoop\\GameLoop.csproj|solutionrelative:gameloop\\services\\turnstatecloner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DA930CE-02AA-455C-9409-52618F3FF285}|GameLoop\\GameLoop.csproj|d:\\dev\\gameloop\\gameloop\\gameloop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{0DA930CE-02AA-455C-9409-52618F3FF285}|GameLoop\\GameLoop.csproj|solutionrelative:gameloop\\gameloop.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{0DA930CE-02AA-455C-9409-52618F3FF285}|GameLoop\\GameLoop.csproj|d:\\dev\\gamelooplibrary\\gameloop\\services\\turnrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA930CE-02AA-455C-9409-52618F3FF285}|GameLoop\\GameLoop.csproj|solutionrelative:gameloop\\services\\turnrunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30F7D38B-2DBA-4092-8189-32B1BE26E15C}|GameLoopAbstractions\\GameLoopLib.csproj|d:\\dev\\gameloop\\gameloopabstractions\\abstractions\\ibattlerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30F7D38B-2DBA-4092-8189-32B1BE26E15C}|GameLoopAbstractions\\GameLoopLib.csproj|solutionrelative:gameloopabstractions\\abstractions\\ibattlerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DA930CE-02AA-455C-9409-52618F3FF285}|GameLoop\\GameLoop.csproj|d:\\dev\\gamelooplibrary\\gameloop\\services\\skillselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA930CE-02AA-455C-9409-52618F3FF285}|GameLoop\\GameLoop.csproj|solutionrelative:gameloop\\services\\skillselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{30F7D38B-2DBA-4092-8189-32B1BE26E15C}|GameLoopAbstractions\\GameLoopLib.csproj|d:\\dev\\gameloop\\gameloopabstractions\\abstractions\\iskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30F7D38B-2DBA-4092-8189-32B1BE26E15C}|GameLoopAbstractions\\GameLoopLib.csproj|solutionrelative:gameloopabstractions\\abstractions\\iskill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0DA930CE-02AA-455C-9409-52618F3FF285}|GameLoop\\GameLoop.csproj|d:\\dev\\gamelooplibrary\\gameloop\\services\\turnmeterqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA930CE-02AA-455C-9409-52618F3FF285}|GameLoop\\GameLoop.csproj|solutionrelative:gameloop\\services\\turnmeterqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA930CE-02AA-455C-9409-52618F3FF285}|GameLoop\\GameLoop.csproj|d:\\dev\\gamelooplibrary\\gameloop\\services\\randomtargetselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA930CE-02AA-455C-9409-52618F3FF285}|GameLoop\\GameLoop.csproj|solutionrelative:gameloop\\services\\randomtargetselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA930CE-02AA-455C-9409-52618F3FF285}|GameLoop\\GameLoop.csproj|d:\\dev\\gamelooplibrary\\gameloop\\services\\randomnumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA930CE-02AA-455C-9409-52618F3FF285}|GameLoop\\GameLoop.csproj|solutionrelative:gameloop\\services\\randomnumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA930CE-02AA-455C-9409-52618F3FF285}|GameLoop\\GameLoop.csproj|d:\\dev\\gamelooplibrary\\gameloop\\services\\battlerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA930CE-02AA-455C-9409-52618F3FF285}|GameLoop\\GameLoop.csproj|solutionrelative:gameloop\\services\\battlerunner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DA930CE-02AA-455C-9409-52618F3FF285}|GameLoop\\GameLoop.csproj|d:\\dev\\gamelooplibrary\\gameloop\\services\\skills\\standardmelee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DA930CE-02AA-455C-9409-52618F3FF285}|GameLoop\\GameLoop.csproj|solutionrelative:gameloop\\services\\skills\\standardmelee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,51 +47,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BattleRunner.cs",
-              "DocumentMoniker": "D:\\Dev\\GameLoop\\GameLoop\\Implementations\\BattleRunner.cs",
-              "RelativeDocumentMoniker": "GameLoop\\Implementations\\BattleRunner.cs",
-              "ToolTip": "D:\\Dev\\GameLoop\\GameLoop\\Implementations\\BattleRunner.cs",
-              "RelativeToolTip": "GameLoop\\Implementations\\BattleRunner.cs",
+              "Title": "TurnStateCloner.cs",
+              "DocumentMoniker": "D:\\Dev\\GameLoopLibrary\\GameLoop\\Services\\TurnStateCloner.cs",
+              "RelativeDocumentMoniker": "GameLoop\\Services\\TurnStateCloner.cs",
+              "ToolTip": "D:\\Dev\\GameLoopLibrary\\GameLoop\\Services\\TurnStateCloner.cs",
+              "RelativeToolTip": "GameLoop\\Services\\TurnStateCloner.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T13:36:03.924Z",
+              "WhenOpened": "2025-06-02T16:20:23.634Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "GameLoop",
-              "DocumentMoniker": "D:\\Dev\\GameLoop\\GameLoop\\GameLoop.csproj",
-              "RelativeDocumentMoniker": "GameLoop\\GameLoop.csproj",
-              "ToolTip": "D:\\Dev\\GameLoop\\GameLoop\\GameLoop.csproj",
-              "RelativeToolTip": "GameLoop\\GameLoop.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-06-02T12:54:13.716Z",
+              "Title": "TurnRunner.cs",
+              "DocumentMoniker": "D:\\Dev\\GameLoopLibrary\\GameLoop\\Services\\TurnRunner.cs",
+              "RelativeDocumentMoniker": "GameLoop\\Services\\TurnRunner.cs",
+              "ToolTip": "D:\\Dev\\GameLoopLibrary\\GameLoop\\Services\\TurnRunner.cs",
+              "RelativeToolTip": "GameLoop\\Services\\TurnRunner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:20:17.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SkillSelector.cs",
+              "DocumentMoniker": "D:\\Dev\\GameLoopLibrary\\GameLoop\\Services\\SkillSelector.cs",
+              "RelativeDocumentMoniker": "GameLoop\\Services\\SkillSelector.cs",
+              "ToolTip": "D:\\Dev\\GameLoopLibrary\\GameLoop\\Services\\SkillSelector.cs",
+              "RelativeToolTip": "GameLoop\\Services\\SkillSelector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:20:11.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ISkill.cs",
-              "DocumentMoniker": "D:\\Dev\\GameLoop\\GameLoopAbstractions\\Abstractions\\ISkill.cs",
-              "RelativeDocumentMoniker": "GameLoopAbstractions\\Abstractions\\ISkill.cs",
-              "ToolTip": "D:\\Dev\\GameLoop\\GameLoopAbstractions\\Abstractions\\ISkill.cs",
-              "RelativeToolTip": "GameLoopAbstractions\\Abstractions\\ISkill.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "TurnMeterQueue.cs",
+              "DocumentMoniker": "D:\\Dev\\GameLoopLibrary\\GameLoop\\Services\\TurnMeterQueue.cs",
+              "RelativeDocumentMoniker": "GameLoop\\Services\\TurnMeterQueue.cs",
+              "ToolTip": "D:\\Dev\\GameLoopLibrary\\GameLoop\\Services\\TurnMeterQueue.cs",
+              "RelativeToolTip": "GameLoop\\Services\\TurnMeterQueue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T15:17:52.498Z"
+              "WhenOpened": "2025-06-02T16:20:06.701Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IBattleRunner.cs",
-              "DocumentMoniker": "D:\\Dev\\GameLoop\\GameLoopAbstractions\\Abstractions\\IBattleRunner.cs",
-              "RelativeDocumentMoniker": "GameLoopAbstractions\\Abstractions\\IBattleRunner.cs",
-              "ToolTip": "D:\\Dev\\GameLoop\\GameLoopAbstractions\\Abstractions\\IBattleRunner.cs",
-              "RelativeToolTip": "GameLoopAbstractions\\Abstractions\\IBattleRunner.cs",
+              "DocumentIndex": 4,
+              "Title": "RandomTargetSelector.cs",
+              "DocumentMoniker": "D:\\Dev\\GameLoopLibrary\\GameLoop\\Services\\RandomTargetSelector.cs",
+              "RelativeDocumentMoniker": "GameLoop\\Services\\RandomTargetSelector.cs",
+              "ToolTip": "D:\\Dev\\GameLoopLibrary\\GameLoop\\Services\\RandomTargetSelector.cs",
+              "RelativeToolTip": "GameLoop\\Services\\RandomTargetSelector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:20:02.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RandomNumberGenerator.cs",
+              "DocumentMoniker": "D:\\Dev\\GameLoopLibrary\\GameLoop\\Services\\RandomNumberGenerator.cs",
+              "RelativeDocumentMoniker": "GameLoop\\Services\\RandomNumberGenerator.cs",
+              "ToolTip": "D:\\Dev\\GameLoopLibrary\\GameLoop\\Services\\RandomNumberGenerator.cs",
+              "RelativeToolTip": "GameLoop\\Services\\RandomNumberGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T16:19:57.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StandardMelee.cs",
+              "DocumentMoniker": "D:\\Dev\\GameLoopLibrary\\GameLoop\\Services\\Skills\\StandardMelee.cs",
+              "RelativeDocumentMoniker": "GameLoop\\Services\\Skills\\StandardMelee.cs",
+              "ToolTip": "D:\\Dev\\GameLoopLibrary\\GameLoop\\Services\\Skills\\StandardMelee.cs",
+              "RelativeToolTip": "GameLoop\\Services\\Skills\\StandardMelee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-15T15:17:47.691Z",
+              "WhenOpened": "2025-06-02T16:19:27.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BattleRunner.cs",
+              "DocumentMoniker": "D:\\Dev\\GameLoopLibrary\\GameLoop\\Services\\BattleRunner.cs",
+              "RelativeDocumentMoniker": "GameLoop\\Services\\BattleRunner.cs",
+              "ToolTip": "D:\\Dev\\GameLoopLibrary\\GameLoop\\Services\\BattleRunner.cs",
+              "RelativeToolTip": "GameLoop\\Services\\BattleRunner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T13:36:03.924Z",
               "EditorCaption": ""
             }
           ]
