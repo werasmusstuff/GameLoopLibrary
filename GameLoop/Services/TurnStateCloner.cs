@@ -1,6 +1,6 @@
-﻿using Abstractions.Interfaces;
-using Abstractions.Models;
-using FastDeepCloner;
+﻿using FastDeepCloner;
+using Abstractions.Interfaces;
+using GameLoopLib.Models;
 
 namespace GameLoop.Services
 {

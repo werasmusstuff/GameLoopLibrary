@@ -1,7 +1,7 @@
-﻿using Abstractions.Enums;
-using Abstractions.Interfaces;
+﻿using Abstractions.Interfaces;
+using GameLoopLib.Enums;
 
-namespace Abstractions.Models
+namespace GameLoopLib.Models
 {
   public sealed class Champion : ChampionState
   {

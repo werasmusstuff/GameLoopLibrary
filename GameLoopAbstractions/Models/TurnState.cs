@@ -1,6 +1,6 @@
 ﻿using Abstractions.Interfaces;
 
-namespace Abstractions.Models
+namespace GameLoopLib.Models
 {
   public sealed class TurnState
   {

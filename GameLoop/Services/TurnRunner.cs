@@ -1,5 +1,5 @@
 ﻿using Abstractions.Interfaces;
-using Abstractions.Models;
+using GameLoopLib.Models;
 
 namespace GameLoop.Services
 {

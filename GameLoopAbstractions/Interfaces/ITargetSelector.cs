@@ -1,5 +1,5 @@
-﻿using Abstractions.Enums;
-using Abstractions.Models;
+﻿using GameLoopLib.Enums;
+using GameLoopLib.Models;
 
 namespace Abstractions.Interfaces
 {

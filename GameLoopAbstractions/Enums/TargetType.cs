@@ -1,4 +1,4 @@
-﻿namespace Abstractions.Enums
+﻿namespace GameLoopLib.Enums
 {
   public enum TargetType
   {

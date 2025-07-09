@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35514.174 d17.12
+VisualStudioVersion = 17.12.35514.174
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLoop", "GameLoop\GameLoop.csproj", "{0DA930CE-02AA-455C-9409-52618F3FF285}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "GameLoop\Services.csproj", "{0DA930CE-02AA-455C-9409-52618F3FF285}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLoopLib", "GameLoopAbstractions\GameLoopLib.csproj", "{30F7D38B-2DBA-4092-8189-32B1BE26E15C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstractions", "GameLoopAbstractions\Abstractions.csproj", "{30F7D38B-2DBA-4092-8189-32B1BE26E15C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLoopLibraryTests", "GameLoopLibraryTests\GameLoopLibraryTests.csproj", "{1B60E793-2AEA-47B5-8DB4-CC4A1C8D65C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,8 +23,15 @@ Global
 		{30F7D38B-2DBA-4092-8189-32B1BE26E15C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{30F7D38B-2DBA-4092-8189-32B1BE26E15C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{30F7D38B-2DBA-4092-8189-32B1BE26E15C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B60E793-2AEA-47B5-8DB4-CC4A1C8D65C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B60E793-2AEA-47B5-8DB4-CC4A1C8D65C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B60E793-2AEA-47B5-8DB4-CC4A1C8D65C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B60E793-2AEA-47B5-8DB4-CC4A1C8D65C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D5C09CD-70AB-45B3-AC81-7BEB2548F250}
 	EndGlobalSection
 EndGlobal
