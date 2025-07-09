@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35514.174
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "GameLoop\Services.csproj", "{0DA930CE-02AA-455C-9409-52618F3FF285}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Services", "Services\Services.csproj", "{0DA930CE-02AA-455C-9409-52618F3FF285}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstractions", "GameLoopAbstractions\Abstractions.csproj", "{30F7D38B-2DBA-4092-8189-32B1BE26E15C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstractions", "Abstractions\Abstractions.csproj", "{30F7D38B-2DBA-4092-8189-32B1BE26E15C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLoopLibraryTests", "GameLoopLibraryTests\GameLoopLibraryTests.csproj", "{1B60E793-2AEA-47B5-8DB4-CC4A1C8D65C9}"
 EndProject
