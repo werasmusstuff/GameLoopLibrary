@@ -1,4 +1,4 @@
-﻿namespace Abstractions.Models
+﻿namespace GameLoopLib.Models
 {
   public sealed class Teams
   {

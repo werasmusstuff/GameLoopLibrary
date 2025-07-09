@@ -1,4 +1,4 @@
-﻿using Abstractions.Models;
+﻿using GameLoopLib.Models;
 
 namespace Abstractions.Interfaces
 {

@@ -1,6 +1,6 @@
-﻿using Abstractions.Enums;
-using Abstractions.Interfaces;
-using Abstractions.Models;
+﻿using Abstractions.Interfaces;
+using GameLoopLib.Enums;
+using GameLoopLib.Models;
 
 namespace GameLoop.Services
 {

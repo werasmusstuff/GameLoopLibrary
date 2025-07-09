@@ -1,6 +1,6 @@
-﻿using Abstractions.Enums;
+﻿using GameLoopLib.Models;
 using Abstractions.Interfaces;
-using Abstractions.Models;
+using GameLoopLib.Enums;
 
 namespace GameLoop.Services.Skills
 {
